@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LineDataManager
+comment1.params=newFontSize
+comment1.target=void\ updateDPSFontSize(int)
+comment2.params=data
+comment2.target=void\ addCombatLine(LineData)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=currentTime
+comment4.target=void\ cleanupOldData(long)
+comment5.params=currentTime
+comment5.target=void\ cleanupOldData2(long)
+comment6.params=now
+comment6.target=void\ snapshotDPS(long)
+comment7.params=now
+comment7.target=void\ drawGraph(long)
+comment8.params=index
+comment8.target=greenfoot.Color\ getColorForIndex(int)
+numComments=9

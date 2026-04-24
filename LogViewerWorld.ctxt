@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LogViewerWorld
+comment1.params=
+comment1.target=LogViewerWorld()
+comment2.params=
+comment2.target=void\ started()
+comment3.params=h
+comment3.target=void\ sysMsg(java.lang.String)
+comment4.params=
+comment4.target=LineDataManager\ getLDM()
+comment5.params=
+comment5.target=java.io.File\ chooseFolder()
+numComments=6

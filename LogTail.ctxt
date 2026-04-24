@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=LogTail
+comment1.params=newFontSize
+comment1.target=void\ updateFontSize(int)
+comment2.params=file\ xPos\ isCombatLog
+comment2.target=LogTail(java.io.File,\ int,\ boolean)
+comment3.params=
+comment3.target=void\ startTailing()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=void\ moveAllLogLinesUp()
+comment6.params=line
+comment6.target=LineData\ parseCombatLine(java.lang.String)
+comment7.params=timeString
+comment7.target=long\ convertToEpochMillis(java.lang.String)
+numComments=8

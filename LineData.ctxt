@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=LineData
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ LineData\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=timestampMillis\ attacker\ defender\ damage\ weapon\ element
+comment1.target=LineData(long,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

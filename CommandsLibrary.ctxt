@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CommandsLibrary
+comment1.params=keyword\ handler
+comment1.target=void\ registerCommand(java.lang.String,\ CommandHandler)
+comment2.params=message
+comment2.target=boolean\ tryExecuteCommand(java.lang.String)
+numComments=3

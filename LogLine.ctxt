@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LogLine
+comment1.params=text\ fontSize\ x
+comment1.target=LogLine(java.lang.String,\ int,\ int)
+comment2.params=text\ fontSize\ x\ c
+comment2.target=LogLine(java.lang.String,\ int,\ int,\ greenfoot.Color)
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment5.params=targetLeftX
+comment5.target=int\ getLeftAlignedX(int)
+numComments=6
